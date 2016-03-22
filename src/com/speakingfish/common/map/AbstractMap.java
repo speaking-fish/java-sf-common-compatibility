@@ -11,5 +11,4 @@ public abstract class AbstractMap<K,V> extends java.util.AbstractMap<K,V> {
     protected AbstractMap() {
     }
 
-
 }
